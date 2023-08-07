@@ -1,5 +1,5 @@
 ## ER Diagram in the Database
-![erd](images/erd.png)
+![erd](images/ERD.png)
 
 ## Deposit Money to Account
 ![deposit](images/credit.png)
